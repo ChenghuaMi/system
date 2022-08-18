@@ -1,0 +1,8 @@
+app:
+  name: mch
+
+mysql:
+  host: 127.0.0.1
+  username: root
+  password: xiaomi123
+  dbname: mch
