@@ -5,4 +5,6 @@ type BaseServices struct {
 	LoginServiceObj *LoginService
 	RoleServiceObj *RoleService
 	AdminServiceObj *AdminService
+	CateServiceObj *CateService
+	BrandServiceObj *BrandService
 }

@@ -10,4 +10,7 @@ var (
 	ErrorRoleExist = errors.New("角色已存在")
 	ErrorRoleIdNotExist = errors.New("id 不存在")
 	ErrorRoleNotExist = errors.New("角色不存在")
+
+	ErrorDataExist = errors.New("数据已存在")
+	ErrorDataNotExist = errors.New("数据不存在")
 )

@@ -4,5 +4,5 @@ app:
 mysql:
   host: 127.0.0.1
   username: root
-  password: xiaomi123
+  password: 123456
   dbname: mch
